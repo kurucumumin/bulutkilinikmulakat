@@ -70,30 +70,16 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="db.designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>db.dbml</DependentUpon>
-    </Compile>
-    <Compile Include="frmEkleGuncelle.cs">
+    <Compile Include="piWorks.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmEkleGuncelle.Designer.cs">
-      <DependentUpon>frmEkleGuncelle.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmTumData.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmTumData.Designer.cs">
-      <DependentUpon>frmTumData.cs</DependentUpon>
+    <Compile Include="piWorks.Designer.cs">
+      <DependentUpon>piWorks.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="frmEkleGuncelle.resx">
-      <DependentUpon>frmEkleGuncelle.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmTumData.resx">
-      <DependentUpon>frmTumData.cs</DependentUpon>
+    <EmbeddedResource Include="piWorks.resx">
+      <DependentUpon>piWorks.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -104,14 +90,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <None Include="db.dbml">
-      <Generator>MSLinqToSQLGenerator</Generator>
-      <LastGenOutput>db.designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="db.dbml.layout">
-      <DependentUpon>db.dbml</DependentUpon>
-    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

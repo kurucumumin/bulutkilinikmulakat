@@ -16,7 +16,7 @@ namespace blutKlinik
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmBulutKlinik());
+            Application.Run(new piWorks());
         }
     }
 }

@@ -25,11 +25,10 @@ C:\Users\Mümin\source\repos\blutKlinik\blutKlinik\bin\Debug\de\DevExpress.Pdf.v
 C:\Users\Mümin\source\repos\blutKlinik\blutKlinik\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
 C:\Users\Mümin\source\repos\blutKlinik\blutKlinik\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
 C:\Users\Mümin\source\repos\blutKlinik\blutKlinik\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
-C:\Users\Mümin\source\repos\blutKlinik\blutKlinik\obj\Debug\blutKlinik.frmEkleGuncelle.resources
-C:\Users\Mümin\source\repos\blutKlinik\blutKlinik\obj\Debug\blutKlinik.frmBulutKlinik.resources
 C:\Users\Mümin\source\repos\blutKlinik\blutKlinik\obj\Debug\blutKlinik.Properties.Resources.resources
 C:\Users\Mümin\source\repos\blutKlinik\blutKlinik\obj\Debug\blutKlinik.csproj.GenerateResource.cache
 C:\Users\Mümin\source\repos\blutKlinik\blutKlinik\obj\Debug\blutKlinik.csproj.CoreCompileInputs.cache
 C:\Users\Mümin\source\repos\blutKlinik\blutKlinik\obj\Debug\blutKlinik.csproj.CopyComplete
 C:\Users\Mümin\source\repos\blutKlinik\blutKlinik\obj\Debug\blutKlinik.exe
 C:\Users\Mümin\source\repos\blutKlinik\blutKlinik\obj\Debug\blutKlinik.pdb
+C:\Users\Mümin\source\repos\blutKlinik\blutKlinik\obj\Debug\blutKlinik.piWorks.resources
